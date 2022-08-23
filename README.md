@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas Caldas
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
+- 👋 I’m Lucas Caldas
+- 👀 Interested in Data Science
+- 💞️ Looking to collaborate in Data Science and Machine Learning projects
 - 📫 How to reach me: lucasmedeiroscaldas@yahoo.com.br | https://www.linkedin.com/in/lucas-caldas50/
