@@ -5,7 +5,7 @@
 - 📖 Learning **Django and Django REST**
 - 💞️ I’m looking to collaborate in **Data Science and Machine Learning projects**
 - 🤝 I’m looking for help with **Java and Javascript**
-- 📫 How to reach me :**lucasmedeiroscaldas@yahoo.com.br**
+- 📫 How to reach me : **lucasmedeiroscaldas@yahoo.com.br**
 
 <br>
 <div style="display: flex; flex-direction: row;">
