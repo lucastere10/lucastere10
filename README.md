@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Engineer & Data Science Enthusiast</h3>
 
 - 👀 Interested in **Data Science**
-- 📖 Learning **Dash and Django**
+- 📖 Learning **Django and Django REST**
 - 💞️ I’m looking to collaborate in **Data Science and Machine Learning projects**
 - 🤝 I’m looking for help with **Java and Javascript**
 - 📫 How to reach me :**lucasmedeiroscaldas@yahoo.com.br**
