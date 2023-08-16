@@ -7,3 +7,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lucastere10&theme=slateorange)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastere10&layout=compact&hide=jupyter%20notebook,html,portugol&theme=slateorange)
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://streak-stats.demolab.com/?user=lucastere10&theme=slateorange" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastere10&layout=compact&hide=jupyter%20notebook,html,portugol&theme=slateorange" />
+</div>
