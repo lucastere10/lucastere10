@@ -9,8 +9,8 @@
 
 <br>
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height: auto; width: 50%;" src="https://streak-stats.demolab.com/?user=lucastere10&theme=darcula" />
+ <img class="img" style="height: auto; width: 50%;" src="https://streak-stats.demolab.com/?user=lucastere10&theme=noctis_minimus" />
  &nbsp;
  &nbsp;
- <img class="img" style="height: auto; width: 36%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastere10&layout=compact&hide=jupyter%20notebook,html,portugol&theme=darcula" />
+ <img class="img" style="height: auto; width: 36%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastere10&layout=compact&hide=jupyter%20notebook,html,portugol&theme=noctis_minimus" />
 </div>
