@@ -4,3 +4,4 @@
 - 💞️ Looking to collaborate in Data Science and Machine Learning projects
 - 📫 How to reach me: lucasmedeiroscaldas@yahoo.com.br
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastere10&show_icons=true&theme=radical)
