@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Lucas Caldas</h1>
 <h3 align="center">Aspiring Engineer & Data Science Enthusiast</h3>
 
-- 👀 Interested in **Data Science**
-- 📖 Learning **Django and Django REST**
+- 👀 Interested in **Data Science and Programing**
+- 📖 Learning **NextJS and TailwindCSS**
 - 💞️ I’m looking to collaborate in **Data Science and Machine Learning projects**
-- 🤝 I’m looking for help with **Java and Javascript**
+- 🤝 I’m looking for help with **NextAuth and Java Authentication And Authorization Service**
 - 📫 How to reach me : **lucasmedeiroscaldas@yahoo.com.br**
 
 <br>
