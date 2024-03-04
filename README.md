@@ -5,9 +5,9 @@
 <br>
 
 - 👀 Interested in **Data Science**
-- 📖 Learning **NextJS**
+- 📖 Learning **Next-Auth**
 - 💞️ I’m looking to collaborate in **Data Science and Machine Learning projects**
-- 🤝 I’m looking for help with **NextAuth and Java Authentication And Authorization Service**
+- 🤝 I’m looking for help with **Redux and Next-Auth**
 - 📫 How to reach me : **lucasmedeiroscaldas@yahoo.com.br**
 
 <div align="center">
