@@ -5,9 +5,9 @@
 <br>
 
 - 👀 Interested in **Data Science**
-- 📖 Learning **Next-Auth**
+- 📖 Learning **Junit** and **Mockito**
 - 💞️ I’m looking to collaborate in **Data Science and Machine Learning projects**
-- 🤝 I’m looking for help with **Redux and Next-Auth**
+- 🤝 I’m looking for help with **Unit and Integration Tests**
 - 📫 How to reach me : **lucasmedeiroscaldas@yahoo.com.br**
 
 <div align="center">
