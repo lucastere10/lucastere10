@@ -5,7 +5,7 @@
 <br>
 
 - 👀 Interested in **Data Science**
-- 📖 Learning **Junit** and **Mockito**
+- 📖 Learning **C#** and **ASP.NET Core**
 - 💞️ I’m looking to collaborate in **Data Science and Machine Learning projects**
 - 🤝 I’m looking for help with **Unit and Integration Tests**
 - 📫 How to reach me : **lucasmedeiroscaldas@yahoo.com.br**
