@@ -4,9 +4,9 @@
 
 <br>
 
-- 👀 Interested in **Data Science**
+- 👀 Interested in **Data Science** and **DevOps**
 - 🏭 Working in **.NET/C#** and **Java** backend implementations
-- 📖 Learning Desktop Development in **.NET/C#**
+- 📖 Learning Clustering Models for **Data Science** Projects
 - 💞️ I’m looking to collaborate in **Data Science and Machine Learning projects**
 - 🤝 I’m looking for help with **DevOps** 
 - 📫 How to reach me : **lucasmedeiroscaldas@yahoo.com.br**
